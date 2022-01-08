@@ -1,0 +1,17 @@
+.dragZone{
+    width:100%;
+    height:700px;
+    /*background-color: #BAC0C9;*/
+    overflow:hidden;
+    max-width:1920px;
+    margin:0 auto;
+}
+
+.dragBox{
+    /*width:100%;*/
+    /*max-width:1920px;*/
+    /*min-width:1440px;*/
+    /*background-color: red;*/
+    height:700px;
+    display:inline-block;
+}

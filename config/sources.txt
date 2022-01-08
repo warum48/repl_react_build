@@ -1,0 +1,2 @@
+https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Fitnext.io%2Fbuilding-multi-page-application-with-react-f5a338489694
+https://github.com/przemek-nowicki/multi-page-app-with-react
